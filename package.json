@@ -2,7 +2,7 @@
 	"name": "mysite",
 	"version": "0.1.0",
 	"private": true,
-	"homepage": "https://gigi1111.github.io/myPortfolio/",
+	"homepage": "https://gigi1111.github.io/Chung-Fan-Tsai/",
 	"dependencies": {
 		"@vx/vx": "0.0.191",
 		"d3-array": "^2.3.1",
