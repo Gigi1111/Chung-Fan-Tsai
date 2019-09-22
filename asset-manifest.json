@@ -1,0 +1,31 @@
+{
+  "files": {
+    "main.css": "/Chung-Fan-Tsai/static/css/main.caea95c1.chunk.css",
+    "main.js": "/Chung-Fan-Tsai/static/js/main.7fb485f5.chunk.js",
+    "main.js.map": "/Chung-Fan-Tsai/static/js/main.7fb485f5.chunk.js.map",
+    "runtime~main.js": "/Chung-Fan-Tsai/static/js/runtime~main.ad5b3249.js",
+    "runtime~main.js.map": "/Chung-Fan-Tsai/static/js/runtime~main.ad5b3249.js.map",
+    "static/css/2.31dafeb2.chunk.css": "/Chung-Fan-Tsai/static/css/2.31dafeb2.chunk.css",
+    "static/js/2.1a26d31c.chunk.js": "/Chung-Fan-Tsai/static/js/2.1a26d31c.chunk.js",
+    "static/js/2.1a26d31c.chunk.js.map": "/Chung-Fan-Tsai/static/js/2.1a26d31c.chunk.js.map",
+    "index.html": "/Chung-Fan-Tsai/index.html",
+    "precache-manifest.7a35c1d6a1d9969cdc31c74cc188596c.js": "/Chung-Fan-Tsai/precache-manifest.7a35c1d6a1d9969cdc31c74cc188596c.js",
+    "service-worker.js": "/Chung-Fan-Tsai/service-worker.js",
+    "static/css/2.31dafeb2.chunk.css.map": "/Chung-Fan-Tsai/static/css/2.31dafeb2.chunk.css.map",
+    "static/css/main.caea95c1.chunk.css.map": "/Chung-Fan-Tsai/static/css/main.caea95c1.chunk.css.map",
+    "static/media/1down.png": "/Chung-Fan-Tsai/static/media/1down.e3f6e15a.png",
+    "static/media/2down.png": "/Chung-Fan-Tsai/static/media/2down.e8746e49.png",
+    "static/media/3down.png": "/Chung-Fan-Tsai/static/media/3down.44902859.png",
+    "static/media/arrow.png": "/Chung-Fan-Tsai/static/media/arrow.7d8becbb.png",
+    "static/media/education.png": "/Chung-Fan-Tsai/static/media/education.1044ebeb.png",
+    "static/media/experience.png": "/Chung-Fan-Tsai/static/media/experience.6262f64b.png",
+    "static/media/me.jpg": "/Chung-Fan-Tsai/static/media/me.11b202e5.jpg",
+    "static/media/skills.png": "/Chung-Fan-Tsai/static/media/skills.8fd1924b.png",
+    "static/media/tape1.png": "/Chung-Fan-Tsai/static/media/tape1.c5588753.png",
+    "static/media/tape2.png": "/Chung-Fan-Tsai/static/media/tape2.fae85455.png",
+    "static/media/up1.png": "/Chung-Fan-Tsai/static/media/up1.57683ed8.png",
+    "static/media/up2.png": "/Chung-Fan-Tsai/static/media/up2.8fc581fd.png",
+    "static/media/up3.png": "/Chung-Fan-Tsai/static/media/up3.87f0b5d3.png",
+    "static/media/zipper.png": "/Chung-Fan-Tsai/static/media/zipper.edc5dc17.png"
+  }
+}
