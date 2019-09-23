@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/Chung-Fan-Tsai/precache-manifest.7a35c1d6a1d9969cdc31c74cc188596c.js"
+  "/Chung-Fan-Tsai/precache-manifest.0299fd6129add3f5ec96d2845800e796.js"
 );
 
 self.addEventListener('message', (event) => {

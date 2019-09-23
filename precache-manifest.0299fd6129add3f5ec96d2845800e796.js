@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "bc6e13b517612bd17b0c7e877977e6e7",
+    "revision": "924b30899e7312966e018c4038e57548",
     "url": "/Chung-Fan-Tsai/index.html"
   },
   {
@@ -8,7 +8,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/Chung-Fan-Tsai/static/css/2.31dafeb2.chunk.css"
   },
   {
-    "revision": "e908f6947cb4f65f9dee",
+    "revision": "3e8545314ef4d549a530",
     "url": "/Chung-Fan-Tsai/static/css/main.caea95c1.chunk.css"
   },
   {
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/Chung-Fan-Tsai/static/js/2.1a26d31c.chunk.js"
   },
   {
-    "revision": "e908f6947cb4f65f9dee",
-    "url": "/Chung-Fan-Tsai/static/js/main.7fb485f5.chunk.js"
+    "revision": "3e8545314ef4d549a530",
+    "url": "/Chung-Fan-Tsai/static/js/main.3d3a95de.chunk.js"
   },
   {
     "revision": "7e77ea7156d8214f4b71",
